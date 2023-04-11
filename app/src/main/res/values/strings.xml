@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYElectronicDropoff</string>
+    <string name="data_origin_disclaimer">NY Electronics Drop Off Locations\n\nAll data provided by NYC Open Data APIs.\nCheck https://opendata.cityofnewyork.us for more information.</string>
+    <string name="try_again">Try again</string>
+    <string name="oopss_something_went_wrong">Oopss, something went wrong.</string>
+    <string name="directions">Directions</string>
+    <string name="ok">OK</string>
+</resources>
